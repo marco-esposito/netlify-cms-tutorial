@@ -1,8 +1,7 @@
 backend:
-  name: github
-  repo: marco-esposito/netlify-cms-tutorial
-
-netlify.configure({'5da0ca91-467a-4e3f-b8fa-97d8a2a23c00': musing-lalande-82c0db.netlify.com});
+  name: git-gateway
+  # repo: marco-esposito/netlify-cms-tutorial
+  branch: master
 
 media_folder: static/assets
 public_folder: assets
